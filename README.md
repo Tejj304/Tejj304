@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tejaswini Ransing</h1>
-<h3 align="center">Competitive Programmer & Web-Android Developer from India</h3>
+<h3 align="center">Competitive Programmer & Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tejj304&label=Profile%20views&color=0e75b6&style=flat" alt="Tejj304" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
 
-- 📝 I regularly write articles on [Competitve Programming](Competitve Programming)
-
-- 💬 Ask me about **C++, Algorithms, Competitive Programming, React-Native**
-
-- 📫 How to reach me **tejuransing743@gmail.com**
+- 📫 How to reach me **tejuransing74@gmail.com**
 
 - ⚡ Fun fact **I think I am Lazy**
 
